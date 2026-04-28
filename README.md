@@ -47,12 +47,12 @@
 |------|-------------|-------|
 | **[Reddit Scraper](https://nexusmind30.gumroad.com/l/yeaqe)** | Export matching Reddit posts to JSON and CSV with filters | €15 |
 
-### 🔜 Coming Soon
+### 🔍 Standalone Research & Automation
 
 | Tool | What It Does | Price |
 |------|-------------|-------|
-| **[RSS Opportunity Radar](https://github.com/NexusFernandez/rss-opportunity-radar)** | AI-summarized opportunity digest from any RSS feeds | €19 |
-| **[Telegram Automation Bot](https://github.com/NexusFernandez/telegram-automation-bot)** | Full-featured bot: reports, notes, alerts, scheduling, AI chat | €21 |
+| **[RSS Opportunity Radar](https://github.com/NexusFernandez/rss-opportunity-radar)** | AI-summarized opportunity digest from any RSS feeds — [⭐ Star on GitHub](https://github.com/NexusFernandez/rss-opportunity-radar) | €19 |
+| **[Telegram Automation Bot](https://github.com/NexusFernandez/telegram-automation-bot)** | Full-featured bot: reports, notes, alerts, AI chat — [⭐ Star on GitHub](https://github.com/NexusFernandez/telegram-automation-bot) | €21 |
 
 ---
 
